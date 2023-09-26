@@ -227,7 +227,7 @@
 .profilePanel-2PWEok::before /* dm profile */,
 .container-3wLKDe::before /* forum channel */,
 .profilePanel-2VBkh8::before {
-	content: '';
+	content: 'avatar';
 	position: absolute;
 	margin-top: -48px;
 	background-color: var(--background-primary);
